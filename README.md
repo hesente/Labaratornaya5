@@ -28,3 +28,7 @@
    - **loadFromSharedPreferences()**: Загружает данные из \`SharedPreferences\`.
    - **saveToFile()**: Сохраняет данные в файл.
    - **loadFromFile()**: Загружает данные из файла.
+![image](https://github.com/user-attachments/assets/d73a3be5-d070-4a17-be60-95338798a353)
+![image](https://github.com/user-attachments/assets/444855a1-f7e9-4936-b444-da6be673fc7b)
+![image](https://github.com/user-attachments/assets/fb9d1099-c915-42b8-ba1e-a3a366ac5b1c)
+![image](https://github.com/user-attachments/assets/32b26a75-a7da-450a-9e22-09e546963623)
